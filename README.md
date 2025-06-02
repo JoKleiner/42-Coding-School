@@ -1,8 +1,4 @@
-# 42-Coding-School
-
-This repository shows my progress at **42 Heilbronn**.
-
-## 🗂️ Project Overview by Rank
+# My progress at 42-Coding-School
 
 ### 00_Rank
 - ✅ - [libft](https://github.com/JoKleiner/libft.git) - (A collection of basic functions in C. Can be used in other projects.)
