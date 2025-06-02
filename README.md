@@ -9,8 +9,8 @@ This repository shows my progress at **42 Heilbronn**.
 
 ### 01_Rank
 - ✅ - born2beroot - (Setup of a secure Linux VM with system tools and user rights)
-- ✅ - [get_next_line](https://github.com/JoKleiner/libft.git/get_next_line) - (Reads a line from a file descriptor.)
-- ✅ - [ft_printf](https://github.com/JoKleiner/libft.git/printf) - (Prints data to standard output.)
+- ✅ - [get_next_line](https://github.com/JoKleiner/libft/tree/master/get_next_line) - (Reads a line from a file descriptor.)
+- ✅ - [ft_printf](https://github.com/JoKleiner/libft/tree/master/printf) - (Prints data to standard output.)
 
 ### 02_Rank
 - ✅ - Exam Rank 02
