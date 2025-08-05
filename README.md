@@ -26,10 +26,10 @@
 - ✅ - [CPP00–CPP04](https://github.com/JoKleiner/CPP.git) - (Basic learning of C++ programms)
 
 ### 05_Rank
-- ⏳ - Exam Rank 05
+- 🔄 - Exam Rank 05
 - ⏳ - Inception
 - 🔄 - Webserv - **(in progress)**
-- 🔄 - CPP05–CPP09
+- ✅ - CPP05–CPP09
 
 ### 06_Rank
 - ⏳ - Exam Rank 06
