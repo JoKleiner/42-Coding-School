@@ -23,7 +23,7 @@
 - ✅ - Exam Rank 04
 - ✅ - [cube_3D](https://github.com/JoKleiner/Cube_3D.git) - (A 3D-World using ray-trace to walk in like wolfenstein)
 - ✅ - NetPractice - (Learn basic networking: IP, routing, subnets)
-- ✅ - [CPP00–CPP04](https://github.com/JoKleiner/CPP.git) - (Basic learning of C++ programms)
+- ✅ - [CPP00–CPP04](https://github.com/JoKleiner/CPP.git) - (Basic learning of C++ programs)
 
 ### 05_Rank
 - 🔄 - Exam Rank 05
