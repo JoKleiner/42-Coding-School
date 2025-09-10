@@ -28,7 +28,7 @@
 ### 05_Rank
 - 🔄 - Exam Rank 05
 - ⏳ - Inception
-- 🔄 - [ft_irc](https://github.com/JoKleiner/ft_irc.git) - (An IRC server in C++98 with multi-user support, authentication, channels, and operator commands)
+- 🔄 - [ft_irc](https://github.com/JoKleiner/ft_irc.git) - (An IRC server in C++ with multi-user support, authentication, channels, and operator commands)
 - ✅ - [CPP05–CPP09](https://github.com/JoKleiner/CPP.git) - (Advanced learning of C++ programs)
 
 ### 06_Rank
